@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunal-3196
 - 👀 I’m interested in Design & Automation
-- 🌱 I’m currently learning Selenium Webdriver, Oracle Cloud & VBA
-- 💞️ I’m looking to collaborate on areas in Web/Industrial Automation, RPA & Computer Aided Engineering/Design
+- 🌱 I’m currently learning Selenium Webdriver, VBA & Oracle
+- 💞️ I’m looking to collaborate on areas in Programming & Computer Aided Engineering/Design
 - 📫 How to reach me kaphale6@gmail.com
 
 <!---
